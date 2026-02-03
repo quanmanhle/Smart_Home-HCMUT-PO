@@ -88,22 +88,6 @@ The main door supports **AI-based face recognition** for access control.
 - Low latency and privacy-friendly
 - Integrated directly into IoT control workflow
 
----
-
-## 📡 MQTT Communication
-
-### Topic Structure
-```text
-home/
-├── node1/telemetry
-├── node1/status
-├── node2/telemetry
-├── node2/status
-└── control/
-    ├── door
-    ├── fan
-    ├── pump
-    └── light
 
 ---
 ###🧪 Testing & Validation
