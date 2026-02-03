@@ -90,7 +90,7 @@ The main door supports **AI-based face recognition** for access control.
 
 
 ---
-###🧪 Testing & Validation
+##🧪 Testing & Validation
 
 Sensor functionality verified on ESP32 hardware
 
@@ -102,7 +102,7 @@ End-to-end data flow tested: ESP32 → Gateway → CoreIoT
 
 Face recognition successfully triggered door actuation in real time
 
-###🎥 Demo
+##🎥 Demo
 
 A demonstration video showcasing:
 
