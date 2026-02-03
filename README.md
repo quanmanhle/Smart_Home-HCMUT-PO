@@ -104,3 +104,29 @@ home/
     ├── fan
     ├── pump
     └── light
+
+---
+###🧪 Testing & Validation
+
+Sensor functionality verified on ESP32 hardware
+
+MQTT publish/subscribe stability tested under continuous operation
+
+Encryption/decryption integrity validated
+
+End-to-end data flow tested: ESP32 → Gateway → CoreIoT
+
+Face recognition successfully triggered door actuation in real time
+
+###🎥 Demo
+
+A demonstration video showcasing:
+
+Real-time sensor monitoring
+
+Remote device control
+
+AI-based face recognition unlocking the main door
+
+▶️ YouTube Demo:
+https://youtu.be/Mlss8x8UPN0
